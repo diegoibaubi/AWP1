@@ -154,3 +154,8 @@ main {
     height: auto;
 }
 
+.cine {
+  width: 100%;
+  max-width: 52000px;
+  height: auto;
+}
